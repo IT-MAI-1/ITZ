@@ -1,6 +1,6 @@
 import random
 import os
-from typing import List, Dict
+from typing import List
 from battle import Player, battle, Boss
 
 # Список доступных артефактов в игре
